@@ -1,0 +1,61 @@
+body {
+  background-color:#f1f2f2;
+}
+
+.card { 
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin-left: 430px;
+  transition: 0.2s;
+  width: 30%;
+  margin-top: 130px;
+  background-color: #fff;
+  height: 350px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-head {
+  text-align: center;
+  font-size: 2em;
+  color: #264e86;
+  padding-top: 20px;
+  font-family: 'Libre Baskerville', serif;
+}
+
+#email {
+  margin-top: 25px;
+  margin-left: 65px;
+  border: 1px solid #d4d6c8;
+  font-size: 1.5em; 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 62%;
+  font-family: 'Libre Baskerville', serif;
+}
+
+#password {
+  margin-top: 25px; 
+  margin-left: 65px;
+  border: 1px solid #d4d6c8;
+  font-size: 1.5em; 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 62%;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.button {
+  width: 62%;
+  background-color: #0074e4;
+  margin-left: 65px;
+  padding-top: 3px;
+  margin-top: 25px;
+  text-align: center;
+  height: 35px;
+  color: white;
+  font-size: 1.3em;
+  cursor: pointer;
+  font-family: 'Libre Baskerville', serif;
+}

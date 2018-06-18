@@ -1,0 +1,85 @@
+.row {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.ui-main-title {
+  display: block;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.ui-sub-title {
+  display: block;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}
+
+.btn-xs {
+  width: 7%;
+  height: 25px;
+  font-size: 0.55em;
+  padding-top: 12px;
+  text-align: center;
+  color: #fff;
+  background-color: #2196f3;
+  border-radius: 0.125rem;
+  display: block;
+  cursor: pointer;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}
+
+.btn-sm {
+  width: 9%;
+  height: 27px;
+  font-size: 0.7em;
+  padding-top: 14px;
+  text-align: center;
+  color: #fff;
+  background-color: #2196f3;
+  border-radius: 0.125rem;
+  display: block;
+  cursor: pointer;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}
+
+.btn-md {
+  width: 13%;
+  height: 30px;
+  font-size: 0.8em;
+  padding-top: 10px;
+  text-align: center;
+  color: #fff;
+  background-color: #2196f3;
+  border-radius: 0.125rem;
+  display: block;
+  cursor: pointer;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}
+
+.btn-lg {
+  width: 16%;
+  height: 32px;
+  font-size: 0.9em;
+  padding-top: 12px;
+  text-align: center;
+  color: #fff;
+  background-color: #2196f3;
+  border-radius: 0.125rem;
+  display: block;
+  cursor: pointer;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}
+
+.btn-xl {
+  width: 19%;
+  height: 38px;
+  font-size: 1em;
+  padding-top: 15px;
+  text-align: center;
+  color: #fff;
+  background-color: #2196f3;
+  border-radius: 0.125rem;
+  display: block;
+  cursor: pointer;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}

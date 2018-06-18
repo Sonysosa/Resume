@@ -1,0 +1,36 @@
+.row {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.ui-main-title {
+  display: block;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.ui-sub-title {
+  display: block;
+  font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}
+
+.round-img-sm {
+  object-fit: cover;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.round-img-md {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.round-img-lg {
+  object-fit: cover;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
